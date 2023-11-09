@@ -24,12 +24,12 @@ export const BotaoHome = styled.div`
 `
 
 export const Estilo = styled.div`
-    color: lightslategrey ;
+    color: #ffffff ;
     font-family: Poppins;
     align-items: center;
-    margin-left: 38px;
+    margin-left: 20px;
     text-align: center;
-    width: 80%;
+    width: 90%;
     margin-top: 100%;
     margin-bottom: 45px;
 

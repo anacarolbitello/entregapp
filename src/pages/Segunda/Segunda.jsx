@@ -5,9 +5,3 @@ export const Fundo = styled.div`
     height: 100vh;
 
 `
-
-export const Titulo = styled.div`
-    font-family: Poppins;
-    color: white;
-
-`
